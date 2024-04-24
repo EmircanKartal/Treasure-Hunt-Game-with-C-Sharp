@@ -12,7 +12,7 @@ The project features a well-organized file and class structure:
 
 ```GameForm.cs:``` Manages user interface, game loop, and visual representations of the game.
 ## Usage
-To play the game, execute the .exe file located in the Treasure-Hunt-Game-with-C-Sharp/TreausreHuntVS/bin/Debug/ directory.
+To play the game, execute the .exe file located in the ```Treasure-Hunt-Game-with-C-Sharp/TreausreHuntVS/bin/Debug/``` directory.
 
 ## Image
 
