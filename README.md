@@ -9,6 +9,7 @@ The game's development was carried out in Visual Studio, with the decision to di
 The project features a well-organized file and class structure:
 
 ```GameClass.cs:``` Defines fundamental game components such as character, obstacles, and treasure chests.
+
 ```GameForm.cs:``` Manages user interface, game loop, and visual representations of the game.
 ## Usage
 To play the game, execute the .exe file located in the Treasure-Hunt-Game-with-C-Sharp/TreausreHuntVS/bin/Debug/ directory.
